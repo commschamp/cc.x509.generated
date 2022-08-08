@@ -1,0 +1,65 @@
+/// @namespace cc_x509
+/// @brief Protocol specific namespace.
+
+/// @namespace cc_x509::message
+/// @brief Namespace for all the messages in cc_x509 namespace.
+
+/// @namespace cc_x509::field
+/// @brief Namespace for all the stand alone fields defined in cc_x509 namespace.
+
+/// @namespace cc_x509::frame
+/// @brief Namespace for all the frames defined in cc_x509 namespace.
+
+/// @namespace cc_x509::frame::layer
+/// @brief Namespace for the custom frame layers defined in cc_x509 namespace.
+
+/// @namespace cc_x509::frame::checksum
+/// @brief Namespace for the custom frame layers defined in cc_x509 namespace.
+
+/// @namespace cc_x509::asn1::der
+/// @brief Protocol specific namespace.
+
+/// @namespace cc_x509::asn1::der::message
+/// @brief Namespace for all the messages in cc_x509::asn1::der namespace.
+
+/// @namespace cc_x509::asn1::der::field
+/// @brief Namespace for all the stand alone fields defined in cc_x509::asn1::der namespace.
+
+/// @namespace cc_x509::asn1::der::frame
+/// @brief Namespace for all the frames defined in cc_x509::asn1::der namespace.
+
+/// @namespace cc_x509::asn1::der::frame::layer
+/// @brief Namespace for the custom frame layers defined in cc_x509::asn1::der namespace.
+
+/// @namespace cc_x509::asn1::der::frame::checksum
+/// @brief Namespace for the custom frame layers defined in cc_x509::asn1::der namespace.
+
+/// @namespace cc_x509::asn1
+/// @brief Protocol specific namespace.
+
+/// @namespace cc_x509::asn1::message
+/// @brief Namespace for all the messages in cc_x509::asn1 namespace.
+
+/// @namespace cc_x509::asn1::field
+/// @brief Namespace for all the stand alone fields defined in cc_x509::asn1 namespace.
+
+/// @namespace cc_x509::asn1::frame
+/// @brief Namespace for all the frames defined in cc_x509::asn1 namespace.
+
+/// @namespace cc_x509::asn1::frame::layer
+/// @brief Namespace for the custom frame layers defined in cc_x509::asn1 namespace.
+
+/// @namespace cc_x509::asn1::frame::checksum
+/// @brief Namespace for the custom frame layers defined in cc_x509::asn1 namespace.
+
+
+/// @namespace cc_x509::options
+/// @brief Main namespace for the various protocol options.
+
+/// @namespace cc_x509::input
+/// @brief Main namespace for hold input messages bundles.
+
+/// @namespace cc_x509::dispatch
+/// @brief Main namespace for the various message dispatch functions.
+
+
