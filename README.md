@@ -1,14 +1,11 @@
 # Overview
-This repository contains **generated** definition of 
-[X.509](https://datatracker.ietf.org/doc/html/rfc5280) public key infrastructure
-certificate.
+This repository contains code **generated** by the [commsdsl2comms](https://github.com/commschamp/commsdsl)
+using the [CommsDSL](https://github.com/commschamp/CommsDSL-Specification) protocol definition schema files
+residing in the [cc.x509.commsdsl](https://github.com/commschamp/cc.x509.commsdsl) project.
 
-Please read the
-[Generated CMake Project Walkthrough](https://github.com/commschamp/commsdsl/blob/master/doc/GeneratedProjectWalkthrough.md)
-documentation page for details on this repository internals.
+Applicable Documentation:
 
-Please refer to [cc.x509.commsdsl](https://github.com/commschamp/cc.x509.commsdsl)
-original definition repository, which uses
-[CommsDSL](https://commschamp.github.io/commsdsl_spec) schema
-file(s). Any issues, questions and/or feature requests
-should be submitted against it.
+- [Generated CMake Project Walkthrough](https://github.com/commschamp/commsdsl/blob/master/doc/GeneratedProjectWalkthrough.md)
+
+Any issues, questions and/or feature requests
+should be submitted against [cc.x509.commsdsl](https://github.com/commschamp/cc.x509.commsdsl) project.
