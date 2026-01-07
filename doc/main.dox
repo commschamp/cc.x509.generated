@@ -181,4 +181,3 @@
 ///         cc_x509::options::ClientDefaultOptions
 ///     >;
 /// @endcode
-

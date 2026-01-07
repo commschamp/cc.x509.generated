@@ -52,7 +52,6 @@
 /// @namespace cc_x509::asn1::frame::checksum
 /// @brief Namespace for the custom frame layers defined in cc_x509::asn1 namespace.
 
-
 /// @namespace cc_x509::options
 /// @brief Main namespace for the various protocol options.
 
@@ -61,5 +60,3 @@
 
 /// @namespace cc_x509::dispatch
 /// @brief Main namespace for the various message dispatch functions.
-
-
